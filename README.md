@@ -11,6 +11,6 @@ This Arduino project monitors heart rate, respiration rate, and temperature. It 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ICU-incubator-arduino.git
+   git clone https://github.com/yourusername/ICU-incubator-arduino.git](https://github.com/SerenaWitt/ICU-incubator-arduino.git
 2. Open the main.ino file in the Arduino IDE.
 3. Upload the code to your Arduino board.
